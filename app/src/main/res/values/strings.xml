@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">1RM</string>
     <string name="action_settings">Settings</string>
+    <string name="main.weight">Weight lifted</string>
+    <string name="main.repetitions">Repetitions</string>
 </resources>

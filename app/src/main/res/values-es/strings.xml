@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1RM</string>
+    <string name="action_settings">Configurar</string>
+    <string name="main.repetitions">Repeticiones</string>
+    <string name="main.weight">Peso levantado</string>
+</resources>
